@@ -1,0 +1,94 @@
+
+/* app style */
+header {
+  background: linear-gradient(#444, #ffffff);
+  padding: 20px;
+}
+
+header p {
+  letter-spacing: .2em;
+  font-family: helvetica;
+}
+
+h2 {
+  font-size: 30px;
+
+}
+
+.titel {
+  text-decoration: underline;
+  font-family: fantasy;
+  color: forestgreen;
+}
+.container {
+  margin-top: 30px;
+}
+
+.item {
+  float: left;
+  width: 300px;
+  margin-right: 10px;
+  margin-bottom: 30px;
+}
+.item:last-child {
+  margin-right: 0;
+}
+
+section {
+  clear: both;
+
+}
+
+img {
+  height:300px;
+  length: 300px;
+}
+
+.images {
+  text-align: center;
+}
+
+.list {
+  text-align: center;
+  font-size: 20px;
+}
+
+.images img {
+  margin-right: 60px;
+  margin-bottom: 30px;
+  box-shadow: 5px 10px #999;
+}
+h3  {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: -20px
+}
+.topten {
+  text-decoration: underline;
+  font-size: 30px;
+  color: lightgrey;
+}
+ol {
+  text-align: left;
+
+}
+
+body {
+  background: #ffffff;
+}
+
+
+main {
+  width: 960px;
+  margin: 30px auto;
+}
+
+main p {
+  font-size: 20px;
+}
+}
+footer {
+  height: 150px;
+  background: linear-gradient(#fff, #444);
+  clear: both;
+}
