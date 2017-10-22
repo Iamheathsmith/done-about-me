@@ -3,7 +3,7 @@
 //total counter start point
 var correctTotalAnswers = 0;
 //my 5 questions
-var questions = ['How many kids does heath have?', 'how many hats does heath have?', 'where does he live at?', 'what is his fav food?', 'does he wear glasss?'];
+var questions = ['How many kids does heath have?', 'how many hats does heath have?', 'where does he live at?', 'what is his fav food?', 'does he wear glasss? Y/N Answer only!'];
 //my right answer
 var rightAnswers = ['0', '5', 'seattle', 'pizza', 'y'];
 
